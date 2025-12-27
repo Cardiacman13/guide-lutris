@@ -1,7 +1,7 @@
 ### Introduction à Lutris
 
 > [!WARNING]
-> En attendant que les devs mettent à jour et simplifient Lutris, je trouve bien plus simple Heroic Game Launcher : [GUIDE HGL](https://codeberg.org/Gaming-Linux-FR/guide-heroic)
+> En attendant que les devs mettent à jour et simplifient Lutris, je trouve bien plus simple Heroic Game Launcher : [GUIDE HGL](https://github.com/Cardiacman13/guide-heroic)
 
 Lutris est une plateforme open-source de gestion de jeux sur Linux. Elle permet d'installer, de configurer et de lancer des jeux provenant de différentes sources, telles que Steam, GOG, Humble Bundle, et même des émulateurs pour les jeux rétro. Lutris offre un support étendu pour les jeux natifs Linux, les jeux Windows via Wine/Proton, ainsi que divers émulateurs pour consoles. C'est un outil essentiel pour les joueurs sous Linux, offrant une interface centralisée et simplifiée pour gérer tous vos jeux en un seul endroit.
 
