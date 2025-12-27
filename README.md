@@ -9,18 +9,17 @@ Cependant, la mise en place de Lutris peut varier en fonction de la distribution
 
 En revanche, pour d'autres distributions, des actions supplémentaires peuvent être nécessaires pour que Lutris fonctionne correctement. Il est important de consulter la documentation officielle de Lutris pour s'assurer que vous avez installé toutes les dépendances nécessaires et les pilotes appropriés. Vous pouvez trouver ces informations sur les pages suivantes :
 
-- **[Dépendances Wine](https://github.com/lutris/docs/blob/master/WineDependencies.md)**
 - **[Installation des pilotes](https://github.com/lutris/docs/blob/master/InstallingDrivers.md)**
 
 ### Guide Lutris
 
-#### 1. Passer sur Proton Expérimental
+#### 1. Passer sur Proton-GE
 
-La première chose à faire est de configurer Lutris pour utiliser **Proton Expérimental**, une version de Proton qui intègre les dernières améliorations et correctifs. Pour ce faire, installez Steam en suivant [ce guide](https://codeberg.org/Gaming-Linux-FR/steam-post-install). Ensuite, dans les paramètres de Wine :
+La première chose à faire est de configurer Lutris pour utiliser **Proton-GE**, une version de Proton qui intègre les dernières améliorations et correctifs pensée pour fonctionner hors Steam.
 
 ![lutris1](images/lutris1.png)
 
-Sélectionnez Proton Expérimental dans le champ `version de Wine`. A noter qu'il peut être nécessaire de redémarrer Lutris après sa première initialisation pour que le choix de proton experimental soit visible.
+Sélectionnez Proton-GE dans le champ `version de Wine`. A noter qu'il peut être nécessaire de redémarrer Lutris après sa première initialisation pour que le choix proton-GE soit disponible ou forcer son téléchargement dans les options.
 
 ![lutris2](images/lutris2.png)
 
